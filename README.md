@@ -64,6 +64,6 @@ If you run into an issue with the sample itself, please
 [file an issue](https://github.com/flutter/samples/issues).
 
 
-###打包apk: https://juejin.cn/post/6944000831465193480
+## 打包apk: https://juejin.cn/post/6944000831465193480
 
 keytool -genkey -v -keystore <存放的路径>/文件名字.jks -keyalg RSA -keysize 2048 -validity 有效时间 -alias 别名
